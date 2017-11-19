@@ -1,0 +1,9 @@
+*
+
+!public
+!public/*
+!index.js
+!package.json
+!package-lock.json
+
+!.gitignore
